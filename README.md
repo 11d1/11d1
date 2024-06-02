@@ -10,4 +10,4 @@ Other:
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)](https://archlinux.org/)
 [![Arch](https://img.shields.io/badge/arch-pink?style=for-the-badge&logo=arch-linux)](https://archlinux.org/)
 
-#### Contact me here - oleksandr.andrushko@proton.me
+#### Contact me here - hslv@proton.me
